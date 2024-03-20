@@ -5,12 +5,12 @@ This project is a simple interest calculator implemented using HTML, CSS, and Ja
 ### Usage
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/your-username/simple-interest-calculator.git
+   git clone https://github.com/Manihass/Simple-Interest-Calculator.git
    ```
 
 2. **Open `index.html` in a Web Browser:**
    ```
-   cd simple-interest-calculator
+   cd Simple-Interest-Calculator
    ```
    Open `index.html` in your preferred web browser.
 
